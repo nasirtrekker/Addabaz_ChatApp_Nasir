@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "791266001959",
+    "firebase_url": "https://geekyaddaandr.firebaseio.com",
+    "project_id": "geekyaddaandr",
+    "storage_bucket": "geekyaddaandr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791266001959:android:c02edb2a6003be36",
+        "android_client_info": {
+          "package_name": "comnasirtrekker.github.www.geekyadda_andr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791266001959-ajcnjp279qblb1pcatpavlapfbptsb94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comnasirtrekker.github.www.geekyadda_andr",
+            "certificate_hash": "5809601D7148B32D27AD81750BE63D7453AA2356"
+          }
+        },
+        {
+          "client_id": "791266001959-j9v8b9qn8m9r82bpi9u7tuaa86c9s6pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ZMiRxX591Wsx0N3GGmwmTTiwsJoiwA4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791266001959-j9v8b9qn8m9r82bpi9u7tuaa86c9s6pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
